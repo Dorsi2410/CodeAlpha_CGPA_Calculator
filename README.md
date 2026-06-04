@@ -5,43 +5,28 @@ A simple C++ project developed as part of the CodeAlpha C++ Programming Internsh
 - Calculates CGPA based on grade points and credit hours
 - Accepts multiple subjects
 - Displays total credits
-- Shows overall performance
+- Shows overall performance based on CGPA
+- User-friendly console interface
 
 ## Technologies Used
 - C++
 - Visual Studio Code
 - GCC Compiler
 
-## How to Run
-1. Compile the program:
-   ```bash
-   g++ main.cpp
-   ```
-
-2. Run the program:
-   ```bash
-   ./a.exe
-   ```
-
-## Sample Input
-Number of Subjects: 4
-
-Mathematics 8 5
-
-FOMC 7 4
-
-UHV 9 4
-
-Communication 7 5
+## How It Works
+1. Enter the number of subjects.
+2. Enter subject name, grade point, and credit hours.
+3. The program calculates:
+   - Total Credits
+   - CGPA
+   - Performance Status
+4. Results are displayed on the screen.
 
 ## Sample Output
-Total Credits = 18
-
-CGPA = 7.72
-
-Performance = Good
+![Output Screenshot](screenshots/output.png)
 
 ## Author
 Dorsi Khan
 
+## Internship
 CodeAlpha C++ Programming Internship
