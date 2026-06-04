@@ -36,9 +36,12 @@ Communication 7 5
 
 ## Sample Output
 Total Credits = 18
+
 CGPA = 7.72
+
 Performance = Good
 
 ## Author
 Dorsi Khan
+
 CodeAlpha C++ Programming Internship
