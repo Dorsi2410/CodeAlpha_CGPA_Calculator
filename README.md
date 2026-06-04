@@ -25,9 +25,13 @@ A simple C++ project developed as part of the CodeAlpha C++ Programming Internsh
 
 ## Sample Input
 Number of Subjects: 4
+
 Mathematics 8 5
+
 FOMC 7 4
+
 UHV 9 4
+
 Communication 7 5
 
 ## Sample Output
